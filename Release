@@ -1,0 +1,9 @@
+Origin: Markus's priv8
+Label: Priv8
+Suite: stable
+Version: 6.6.6
+Codename: boners
+Architectures: iphoneos-arm
+Components: main
+Description: shit here may or may not work lol
+MD5Sum:
